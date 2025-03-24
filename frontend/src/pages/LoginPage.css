@@ -1,15 +1,4 @@
-/* Basic styling for Login page */
-/* body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f7fa;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  } */
-  
-  .login-container {
+ .login-container {
     background-image: url('https://photobangalore.com/wp-content/uploads/2021/01/dalfry-photography-bangalore-1.jpg') ;
     background-size: cover;
     background-position: center;

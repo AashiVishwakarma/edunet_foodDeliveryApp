@@ -1,25 +1,3 @@
-// import React from 'react'
-
-// const Register = () => {
-//   return (
-//     <div>
-//       Register
-//     </div>
-//   )
-// }
-
-// export default Register
-
-// import React from 'react'
-
-// export default function Register() {
-//   return (
-//     <div>
-//       Register
-//     </div>
-//   )
-// }
-
 import React, { useState } from "react";
 import './RegisterPage.css';
 
@@ -36,7 +14,7 @@ const Register = () => {
       return;
     }
     alert("Registration successful");
-    // Proceed with registration logic (API call, etc.)
+   
   };
 
   return (

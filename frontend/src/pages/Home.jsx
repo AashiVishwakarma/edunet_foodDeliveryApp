@@ -1,35 +1,3 @@
-// import React from 'react'
-
-// const Home = () => {
-//   return (
-//     <div>
-//       Home
-//     </div>
-//   )
-// }
-
-//export default Home
-
-// import React from 'react'
-// import ImagesFoodCard from './component/ImagesFoodCard';
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import { Link } from 'react-router-dom';
-
-
-// export default function Home() {
-//   return (
-//     <div>
-//       Homeyyy
-//       <Router>
-//       <Routes>
-//       <Route path="./component/ImagesFoodCard" element={<ImagesFoodCard />} />
-        
-//       </Routes>
-//     </Router> 
-     
-//     </div>
-//   )
-// }
 
 import React from 'react';
 import './HomePage.css';
