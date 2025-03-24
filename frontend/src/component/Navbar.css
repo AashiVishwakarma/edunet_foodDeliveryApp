@@ -1,0 +1,8 @@
+.header{
+    width: 100%;
+    background-image: './images/backgroundimg.png';
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 65vh;
+}

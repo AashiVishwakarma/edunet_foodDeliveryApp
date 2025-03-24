@@ -1,0 +1,160 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-image: url('https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2021/02/Food-photography-tips-camera-settings.jpg?fit=1500%2C1000&ssl=1');
+    background-position: bottom;
+    background-color: #e84646;
+    color: #ca8989;
+  }
+  
+  .header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #100f0f;
+  }
+  
+  .header .nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .header .nav ul li {
+    margin-left: 30px;
+    
+  }
+  
+  .header .nav ul li a {
+    text-decoration: none;
+    color: #100f0f;
+    font-size: 16px;
+    
+  }
+  
+  .header .nav ul li a:hover {
+    color: #ffdd57;
+  }
+  
+ 
+  .hero {
+    /* background-image: url('https://i.etsystatic.com/9684337/r/il/5c0f82/726795730/il_fullxfull.726795730_km9q.jpg'); */
+    background-color: #ca8989;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+    color: #100f0f;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .hero .cta-button {
+    padding: 12px 25px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #8b2e1e;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  .hero .cta-button:hover {
+    background-color: #ffdd57;
+  }
+  
+  
+  .menu {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .menu h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .menu .menu-items {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .menu .menu-item {
+    width: 300px;
+    text-align: center;
+  }
+  
+  .menu .menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .menu .menu-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .menu .menu-item p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .menu .menu-item p strong {
+    font-size: 18px;
+    color: #ff6347;
+  }
+  
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 20px;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin-bottom: 10px;
+  }
+  
+  .footer .social-links {
+    margin-top: 10px;
+  }
+  
+  .footer .social-links a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  .footer .social-links a:hover {
+    color: #ff6347;
+  }
+  

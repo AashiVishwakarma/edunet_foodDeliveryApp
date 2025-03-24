@@ -1,0 +1,99 @@
+/* Basic styling for Register page */
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #ecb615;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  } */
+  
+  .register-container {
+    background-image: url('https://t3.ftcdn.net/jpg/02/48/92/96/360_F_248929619_JkVBYroM1rSrshWJemrcjriggudHMUhV.jpg');
+    background-color: #ecb615;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  border: 5px solid black;
+  }
+  
+  .register-box {
+    background-image: url('https://www.qfc.com/content/v2/binary/image/bl/health/what-is-healthy-food/what-is-healthy-food--3616981_2022_dx_content_kh_whatishealthyfood_hro_mbl_640x364.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    filter: blur(0);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    text-decoration: underline;
+    
+  }
+  
+  .input-group {
+    margin: 15px 0;
+  }
+  
+  .input-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #218838;
+  }
+  
+  .error-message {
+    color: red;
+    text-align: center;
+  }
+  
+  .login-link {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .login-link a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .login-link a:hover {
+    text-decoration: underline;
+  }
+  
